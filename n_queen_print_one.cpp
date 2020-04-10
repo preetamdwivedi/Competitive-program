@@ -39,7 +39,7 @@ bool NQueen(int n,int board[][10],int i){
 			cout<<endl;
 		}
 		cout<<endl;
-		return false;
+		return true;
 	}
 
 	//Recursion case
